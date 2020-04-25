@@ -1,0 +1,2 @@
+#root{height:100vh;display:flex;align-items:center;justify-content:center}.clicker{width:300px;height:200px;background-color:#ccc;display:flex;flex-direction:column}.clicker__value{color:grey;font-size:100px;line-height:200px;margin:0 auto}.clicker__actions{display:flex}.clicker__btn{border:none;width:33%;height:70px;font-size:24px;color:#fff;flex-grow:1;cursor:pointer}.btn-increment{background-color:#27a844}.btn-decrement{background-color:#dc3546}.btn-default{background-color:#fec107}
+/*# sourceMappingURL=main.d6db4641.chunk.css.map */
